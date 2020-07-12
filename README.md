@@ -1,4 +1,5 @@
 ### Hi there 👋
+Full Stack Developer
 
 <!--
 **Gal84/GAl84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
